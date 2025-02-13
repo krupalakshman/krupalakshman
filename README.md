@@ -1,8 +1,5 @@
 # Hi, I'm Krupa Lakshman Dakoju 👋
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/banner.png" alt="Banner" />
-</p>
 
 ## 🚀 About Me
 💡 Data Scientist | Python Developer | ML Enthusiast
